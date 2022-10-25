@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as [front-end intern at](https://www.grupofornecedora.com.br/)
 
-- 🌱 I’m currently learning **React.js and Node.js**
+- 🌱 I’m currently learning **React.js, Vue.js and Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/eusoumagalhaes?tab=repositories](https://github.com/eusoumagalhaes?tab=repositories)
 

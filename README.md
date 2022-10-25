@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vinimaranguape@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-naS5h2Rv4QOPcJRwBiJK1XVaZUG67QX/view?usp=sharing](https://drive.google.com/file/d/1-naS5h2Rv4QOPcJRwBiJK1XVaZUG67QX/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-naS5h2Rv4QOPcJRwBiJK1XVaZUG67QX/view?usp=sharing](https://drive.google.com/file/d/1xhITj9oy-UItXjIoMRTsCRi8Jo4MERRN/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

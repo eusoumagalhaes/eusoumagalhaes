@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinícius Magalhães</h1>
-<h3 align="center">A young front-end developer from Brazil.</h3>
+<h3 align="center">A young web developer from Brazil.</h3>
 
-- 🔭 I’m currently working as [front-end intern at Grupo Fornecedora](https://www.grupofornecedora.com.br/)
+- 🔭 I’m currently working as [full-stack junior developer at Grupo Fornecedora](https://www.grupofornecedora.com.br/)
 
 - 🌱 I’m currently learning **React.js, Vue.js and Node.js**
 
